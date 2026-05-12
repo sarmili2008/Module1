@@ -9,7 +9,11 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
-
+men_stepped_on_the_moon = input()
+print(men_stepped_on_the_moon)
+input:
+Saveetha Engineering college
 ## Output
-
+Saveetha Engineering college
 ## Result
+Thus, the python progarm was run successfully for the given question
